@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/refs/heads/main/JsonSchemas/CL_VisualKit.json",
+	"Mesh": "/Game/FactoryGame/Resource/Parts/FluidCanister/SM_FluidCanister_01.SM_FluidCanister_01",
+	"BigIcon": "Desc_PackagedDissolvedSilica",
+	"SmallIcon": "Desc_PackagedDissolvedSilica",
+	"FluidColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	},
+	"GasColor":
+	{
+		"r": 255,
+		"g": 255,
+		"b": 255,
+		"a": 0
+	}
+}

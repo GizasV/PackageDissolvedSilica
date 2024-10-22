@@ -1,0 +1,25 @@
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Recipe.json",
+"Name": "Packaged Dissolved Silica",
+"OverrideCategory": "Cat_Packaging_C",
+"Ingredients": [
+{
+      "Item": "Desc_DissolvedSilica",
+      "Amount": 2000
+ },
+{
+      "Item": "Desc_FluidCanister",
+      "Amount": 2
+ }
+],
+"Products": [
+{
+      "Item": "Desc_PackagedDissolvedSilica",
+      "Amount": 2
+ }
+],
+"ManufacturingDuration": 1.0,
+"ManufacturingMenuPriority": 0.0,
+"ProducedIn": ["Build_Packager_C"],
+"UnlockedBy": ["Schematic_Alternate_Silica_Distilled_C"]
+}
